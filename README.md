@@ -27,4 +27,9 @@ Mapmaking Process
    software: arcgis 10.8 
    note: some HUC8 will have some parts outside of USA, e.g., northern huc8 region may include some Canada regions. When tabulating    weather variables, these areas outside of USA will not be counted. 
    
+R scripts:
+1. sampleCounty.r
+   R script shows how to tabulate gridMet data set to counties
+   
+   
    
