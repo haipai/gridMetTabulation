@@ -29,7 +29,9 @@ Mapmaking Process
    
 R scripts:
 1. sampleCounty.r
-   R script shows how to tabulate gridMet data set to counties
+   R script shows how to tabulate gridMet data set to counties. The script can be adapted to aggregate weather variables beyond the example shown here.
+   
+2. sampleHUC8.r (in processing) 
    
    
    
